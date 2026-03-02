@@ -1,2 +1,9 @@
-# retirement-inflation-calculator
-Inflation-adjusted retirement calculator in Python
+
+
+# Investment Simulator
+
+A simple monthly investment growth simulator.
+
+## Run
+```bash
+python main.py
